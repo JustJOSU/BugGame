@@ -1,0 +1,29 @@
+c:\users\hoofoo\source\repos\BugGame\BugGame\bin\Debug\BugGame.exe.config
+c:\users\hoofoo\source\repos\BugGame\BugGame\bin\Debug\BugGame.exe
+c:\users\hoofoo\source\repos\BugGame\BugGame\bin\Debug\BugGame.pdb
+c:\users\hoofoo\source\repos\BugGame\BugGame\obj\Debug\BugGame.csprojAssemblyReference.cache
+c:\users\hoofoo\source\repos\BugGame\BugGame\obj\Debug\BugGame.Properties.Resources.resources
+c:\users\hoofoo\source\repos\BugGame\BugGame\obj\Debug\BugGame.csproj.GenerateResource.cache
+c:\users\hoofoo\source\repos\BugGame\BugGame\obj\Debug\BugGame.csproj.CoreCompileInputs.cache
+c:\users\hoofoo\source\repos\BugGame\BugGame\obj\Debug\BugGame.exe
+c:\users\hoofoo\source\repos\BugGame\BugGame\obj\Debug\BugGame.pdb
+C:\Users\hoofoo\source\repos\BugGame\BugGame\obj\Debug\BugGame.Form1.resources
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\bin\Debug\BugGame.exe.config
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\bin\Debug\BugGame.exe
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\bin\Debug\BugGame.pdb
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\obj\Debug\BugGame.csprojResolveAssemblyReference.cache
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\obj\Debug\BugGame.Form1.resources
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\obj\Debug\BugGame.Properties.Resources.resources
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\obj\Debug\BugGame.csproj.GenerateResource.cache
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\obj\Debug\BugGame.csproj.CoreCompileInputs.cache
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\obj\Debug\BugGame.exe
+C:\Users\p1111\Downloads\BugGame (3)\BugGame\obj\Debug\BugGame.pdb
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\bin\Debug\BugGame.exe.config
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\obj\Debug\BugGame.exe
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\obj\Debug\BugGame.pdb
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\bin\Debug\BugGame.exe
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\bin\Debug\BugGame.pdb
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\obj\Debug\BugGame.csprojResolveAssemblyReference.cache
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\obj\Debug\BugGame.Form1.resources
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\obj\Debug\BugGame.Properties.Resources.resources
+F:\비주얼프로그래밍1\기말프로젝트_비주얼프로그래밍1(002)_휘성팀\BugGame\BugGame\obj\Debug\BugGame.csproj.GenerateResource.Cache
