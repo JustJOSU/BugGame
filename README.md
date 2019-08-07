@@ -11,13 +11,11 @@ C#을 활용하여 제작한 BugGame입니다.
 - 만약 길어진 자신의 몸통에 머리가 갇히면 더 이상 움직일 수 없습니다.
 - 필드 위에 존재하는 먹이를 다 먹어치워 없어지게 될 경우 두 마리의 Bug중 몸 길이가 가장 긴 Bug가 승리하게 됩니다.
 
-# 게임 화면
+# 게임 시작 화면
+![start](https://user-images.githubusercontent.com/29748479/62639903-68b02100-b97b-11e9-82eb-4477241a7f62.jpg)
 
-- 시작화면
--![start](https://user-images.githubusercontent.com/29748479/62639903-68b02100-b97b-11e9-82eb-4477241a7f62.jpg)
-
-- 종료화면
--![finish](https://user-images.githubusercontent.com/29748479/62639937-7b2a5a80-b97b-11e9-9ccb-266527388f56.jpg)
+# 게임 종료 화면
+![finish](https://user-images.githubusercontent.com/29748479/62639937-7b2a5a80-b97b-11e9-9ccb-266527388f56.jpg)
 
 # 문제점
 
